@@ -21,7 +21,7 @@ header {
 
 .title h1 {
    display: flex;
-   margin-left: -10%;
+   margin-left: -5%;
    margin-bottom: 5%;
    color: rgb(255, 255, 255);
    position: absolute;
@@ -44,7 +44,7 @@ header {
     position: absolute;
     margin-top: 5%;
     margin-bottom: 1%;
-    margin-left: -1.5%;
+    margin-left: 2%;
     text-indent: 2%;
 }
 
@@ -56,8 +56,8 @@ header {
 }
 
 .cabecalho img {
-    height: 400px;
-    width: 1631px;
+    height: 450px;
+    width: 2020px;
     opacity: 0.8;
     background:-webkit-linear-gradient(black);
     filter: brightness(0.4);
@@ -84,14 +84,14 @@ header {
     margin-left: -50%;
     height: 40px;
     background-color: black;
-    width: 1780px;
+    width: 2200px;
 }
 
 .form {
     display: flex;
     position: absolute;
     margin-top: 60%;
-    margin-left: -4%;
+    margin-left: 1%;
     max-width: 1000px;
     max-height: 500px;
     
